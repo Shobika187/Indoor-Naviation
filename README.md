@@ -184,7 +184,11 @@ ipywidgets.interact(selectHouse, way=selectHouse_widget)
 
 ## Result:
 The creation and implementation of an indoor navigation system in Python provide considerable benefits in terms of boosting user experience and efficiency within enclosed environments. 
+
+
 This project takes advantage of the Python programming language's versatility and ease of use to produce a comprehensive and user-friendly navigation solution.
+
+
 The system gives precise and real-time navigation information to users via the integration of multiple technologies such as sensors, beacons, and computer vision, allowing them to navigate complicated indoor areas with ease. 
 Python enables for efficient data processing, smooth interaction with existing technologies, and the creation of a scalable and adaptive solution.
 
